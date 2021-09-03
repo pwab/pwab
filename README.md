@@ -6,7 +6,7 @@
 
 ### Me in one line of code
 
-[[OpenKnowledge](https://en.wikipedia.org/wiki/Open_knowledge), [OpenEducation](https://en.wikipedia.org/wiki/Open_education), [OpenScience](https://en.wikipedia.org/wiki/Open_science)] = [OpenSource](https://en.wikipedia.org/wiki/Open_source) + [OpenData](https://en.wikipedia.org/wiki/Open_data) + [OpenAccess](https://en.wikipedia.org/wiki/Open_access)
+[[open_knowledge](https://en.wikipedia.org/wiki/Open_knowledge), [open_education](https://en.wikipedia.org/wiki/Open_education), [open_science](https://en.wikipedia.org/wiki/Open_science)] = open([source](https://en.wikipedia.org/wiki/Open_source) + [data](https://en.wikipedia.org/wiki/Open_data) + [access](https://en.wikipedia.org/wiki/Open_access))
 
 ### Interesting projects you may not have heard of yet
 
